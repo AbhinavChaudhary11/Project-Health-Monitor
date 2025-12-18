@@ -1,0 +1,17 @@
+{
+  "name": "health-agent",
+  "version": "1.0.0",
+  "description": "Lightweight health monitoring agent for projects",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["health", "monitoring", "metrics"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
+
